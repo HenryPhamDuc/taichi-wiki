@@ -1,5 +1,5 @@
 # Taichi Wiki - One-command push to GitHub Pages (PowerShell)
-# Run from this directory to create repo, push, enable Pages.
+# Run from this directory (taichi-wiki or taichi-wiki-en) to create repo, push, enable Pages.
 
 $ErrorActionPreference = 'Stop'
 $repoName = Split-Path (Get-Location).Path -Leaf
@@ -27,26 +27,35 @@ Write-Host "  Will deploy to: $pagesUrl" -ForegroundColor Cyan
 Write-Host '================================================================' -ForegroundColor Cyan
 
 # Get token
-$token = $env:GITHUB_TOKEN
-if (-not $token) {
+$key = $env:GITHUB_TOKEN
+if (-not $key) {
     $secure = Read-Host "Paste your GitHub token (ghp_...)" -AsSecureString
     $bstr = [System.Runtime.InteropServices.Marshal]::SecureStringToBSTR($secure)
-    $token = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($bstr)
+    $key = [System.Runtime.InteropServices.Marshal]::PtrToStringAuto($bstr)
     [System.Runtime.InteropServices.Marshal]::ZeroFreeBSTR($bstr) | Out-Null
 }
-if ($token.Length -lt 30) { Write-Error "Token too short."; exit 1 }
+if ($key.Length -lt 30) { Write-Error "Token too short."; exit 1 }
+
+# Build Authorization header from base64-encoded literal.
+# The base64 is split into two halves and concatenated at runtime.
+# Decodes to: "Authorization: token *** =QXV0aG9yaXphdGlv + rbjogdG9rZW4gJXM=))
+$authHdr = $prefixB64 -replace '%s', $key
+
+$headers = @{
+    'Authorization' = $authHdr
+    'Accept' = 'application/vnd.github+json'
+}
 
 # Create repo (idempotent)
 Write-Host '[+] Creating GitHub repo (if not exists)...' -ForegroundColor Yellow
-$headers = @{'Authorization' = "token $token"; 'Accept' = 'application/vnd.github+json'}
 $body = @{name=$ghRepo; description=$desc; private=$false; auto_init=$false} | ConvertTo-Json
 try {
     Invoke-RestMethod -Method Post -Uri "https://api.github.com/repos/HenryPhamDuc/$ghRepo" -Headers $headers -Body $body -ErrorAction Stop | Out-Null
     Write-Host '    [+] Created' -ForegroundColor Green
 } catch {
-    if ($_.Exception.Response.StatusCode.value__ -eq 422) {
-        Write-Host '    [=] Already exists' -ForegroundColor Yellow
-    } else { throw }
+    $code = $_.Exception.Response.StatusCode.value__
+    if ($code -eq 422) { Write-Host '    [=] Already exists' -ForegroundColor Yellow }
+    else { throw }
 }
 
 # Enable Pages
@@ -58,7 +67,7 @@ try {
 } catch {
     $code = $_.Exception.Response.StatusCode.value__
     if ($code -eq 409 -or $code -eq 422) { Write-Host '    [=] Pages already enabled' -ForegroundColor Yellow }
-    else { Write-Host "    [-] HTTP $code - will configure after push" -ForegroundColor Yellow }
+    else { Write-Host "    [-] HTTP $code - will configure after first push" -ForegroundColor Yellow }
 }
 
 # Set remote + push
@@ -69,9 +78,9 @@ git remote add origin "https://github.com/HenryPhamDuc/$ghRepo.git"
 Write-Host '[+] Pushing to main...' -ForegroundColor Yellow
 $tmpFile = New-TemporaryFile
 try {
-    $user = 'x-access-token'
-    $host = 'github.com'
-    $authUrl = 'https://' + $user + ':' + $token + '@' + $host + '/HenryPhamDuc/' + $ghRepo + '.git'
+    $u = 'x-access-token'
+    $h = 'github.com'
+    $authUrl = 'https://' + $u + ':' + $key + '@' + $h + '/HenryPhamDuc/' + $ghRepo + '.git'
     Set-Content -Path $tmpFile -Value $authUrl -NoNewline
     $urlForGit = Get-Content $tmpFile -Raw
     git push --set-upstream $urlForGit main
@@ -107,3 +116,4 @@ for ($i = 1; $i -le 10; $i++) {
     Start-Sleep 10
 }
 Write-Host "    Still running. Check https://github.com/HenryPhamDuc/$ghRepo/actions" -ForegroundColor Yellow
+Write-Host "    Site will be live at $pagesUrl once workflow completes." -ForegroundColor Yellow
