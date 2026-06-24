@@ -1040,118 +1040,14 @@
   "edges": [
     {
       "source": "essentials/thap-yeu-thai-cuc-quyen",
-      "target": "essentials/khi-tram-dan-dien"
-    },
-    {
-      "source": "forms/lam-tuoc-vi",
-      "target": "history/thai-cuc-quyen-duong-thuc"
-    },
-    {
-      "source": "essentials/hu-linh-dinh-kinh",
-      "target": "essentials/thap-yeu-thai-cuc-quyen"
-    },
-    {
-      "source": "essentials/y-dung-bat-dung-luc",
-      "target": "technique/kinh-luc"
-    },
-    {
-      "source": "foundations/thai-cuc-quyen",
-      "target": "essentials/thap-yeu-thai-cuc-quyen"
-    },
-    {
-      "source": "essentials/ham-hung-bat-boi",
-      "target": "essentials/thap-yeu-thai-cuc-quyen"
-    },
-    {
-      "source": "forms/lam-tuoc-vi",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "history/thai-cuc-quyen-duong-thuc",
-      "target": "technique/kinh-luc"
-    },
-    {
-      "source": "essentials/khi-tram-dan-dien",
-      "target": "essentials/ham-hung-bat-boi"
-    },
-    {
-      "source": "essentials/khi-tram-dan-dien",
-      "target": "technique/kinh-luc"
-    },
-    {
-      "source": "technique/kinh-luc",
       "target": "essentials/y-dung-bat-dung-luc"
     },
     {
-      "source": "essentials/tram-kien-truy-truu",
-      "target": "essentials/thap-yeu-thai-cuc-quyen"
-    },
-    {
       "source": "essentials/thap-yeu-thai-cuc-quyen",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "technique/kinh-luc",
-      "target": "essentials/khi-tram-dan-dien"
-    },
-    {
-      "source": "technique/thoi-thu",
-      "target": "technique/kinh-luc"
-    },
-    {
-      "source": "technique/thoi-thu",
-      "target": "essentials/khi-tram-dan-dien"
-    },
-    {
-      "source": "essentials/ham-hung-bat-boi",
-      "target": "essentials/khi-tram-dan-dien"
-    },
-    {
-      "source": "essentials/thap-yeu-thai-cuc-quyen",
-      "target": "essentials/tram-kien-truy-truu"
-    },
-    {
-      "source": "essentials/y-dung-bat-dung-luc",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "foundations/thai-cuc-quyen",
-      "target": "technique/kinh-luc"
-    },
-    {
-      "source": "foundations/kho-kien-thuc-taichi",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "history/thai-cuc-quyen-duong-thuc",
-      "target": "foundations/thai-cuc-quyen"
+      "target": "essentials/ham-hung-bat-boi"
     },
     {
       "source": "essentials/tram-kien-truy-truu",
-      "target": "technique/kinh-luc"
-    },
-    {
-      "source": "essentials/khi-tram-dan-dien",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "technique/kinh-luc",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "foundations/thai-cuc-quyen",
-      "target": "history/thai-cuc-quyen-duong-thuc"
-    },
-    {
-      "source": "technique/thoi-thu",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "essentials/ham-hung-bat-boi",
-      "target": "foundations/thai-cuc-quyen"
-    },
-    {
-      "source": "essentials/hu-linh-dinh-kinh",
       "target": "foundations/thai-cuc-quyen"
     },
     {
@@ -1160,35 +1056,139 @@
     },
     {
       "source": "forms/lam-tuoc-vi",
+      "target": "foundations/thai-cuc-quyen"
+    },
+    {
+      "source": "history/thai-cuc-quyen-duong-thuc",
+      "target": "essentials/thap-yeu-thai-cuc-quyen"
+    },
+    {
+      "source": "essentials/khi-tram-dan-dien",
+      "target": "essentials/thap-yeu-thai-cuc-quyen"
+    },
+    {
+      "source": "technique/thoi-thu",
+      "target": "essentials/khi-tram-dan-dien"
+    },
+    {
+      "source": "technique/kinh-luc",
+      "target": "essentials/khi-tram-dan-dien"
+    },
+    {
+      "source": "foundations/thai-cuc-quyen",
+      "target": "history/thai-cuc-quyen-duong-thuc"
+    },
+    {
+      "source": "essentials/y-dung-bat-dung-luc",
       "target": "technique/kinh-luc"
+    },
+    {
+      "source": "essentials/thap-yeu-thai-cuc-quyen",
+      "target": "foundations/thai-cuc-quyen"
+    },
+    {
+      "source": "essentials/ham-hung-bat-boi",
+      "target": "foundations/thai-cuc-quyen"
     },
     {
       "source": "essentials/thap-yeu-thai-cuc-quyen",
       "target": "essentials/hu-linh-dinh-kinh"
     },
     {
-      "source": "history/thai-cuc-quyen-duong-thuc",
+      "source": "forms/lam-tuoc-vi",
+      "target": "history/thai-cuc-quyen-duong-thuc"
+    },
+    {
+      "source": "foundations/thai-cuc-quyen",
       "target": "essentials/thap-yeu-thai-cuc-quyen"
+    },
+    {
+      "source": "history/thai-cuc-quyen-duong-thuc",
+      "target": "technique/kinh-luc"
+    },
+    {
+      "source": "essentials/hu-linh-dinh-kinh",
+      "target": "foundations/thai-cuc-quyen"
     },
     {
       "source": "essentials/khi-tram-dan-dien",
-      "target": "essentials/thap-yeu-thai-cuc-quyen"
+      "target": "technique/kinh-luc"
+    },
+    {
+      "source": "essentials/khi-tram-dan-dien",
+      "target": "essentials/ham-hung-bat-boi"
     },
     {
       "source": "essentials/tram-kien-truy-truu",
+      "target": "essentials/thap-yeu-thai-cuc-quyen"
+    },
+    {
+      "source": "foundations/kho-kien-thuc-taichi",
       "target": "foundations/thai-cuc-quyen"
     },
     {
       "source": "essentials/thap-yeu-thai-cuc-quyen",
+      "target": "essentials/khi-tram-dan-dien"
+    },
+    {
+      "source": "essentials/y-dung-bat-dung-luc",
+      "target": "foundations/thai-cuc-quyen"
+    },
+    {
+      "source": "essentials/ham-hung-bat-boi",
+      "target": "essentials/khi-tram-dan-dien"
+    },
+    {
+      "source": "technique/thoi-thu",
+      "target": "technique/kinh-luc"
+    },
+    {
+      "source": "foundations/thai-cuc-quyen",
+      "target": "technique/kinh-luc"
+    },
+    {
+      "source": "technique/kinh-luc",
       "target": "essentials/y-dung-bat-dung-luc"
     },
     {
       "source": "essentials/thap-yeu-thai-cuc-quyen",
-      "target": "essentials/ham-hung-bat-boi"
+      "target": "essentials/tram-kien-truy-truu"
+    },
+    {
+      "source": "history/thai-cuc-quyen-duong-thuc",
+      "target": "foundations/thai-cuc-quyen"
+    },
+    {
+      "source": "essentials/khi-tram-dan-dien",
+      "target": "foundations/thai-cuc-quyen"
+    },
+    {
+      "source": "essentials/tram-kien-truy-truu",
+      "target": "technique/kinh-luc"
+    },
+    {
+      "source": "forms/lam-tuoc-vi",
+      "target": "technique/kinh-luc"
+    },
+    {
+      "source": "essentials/ham-hung-bat-boi",
+      "target": "essentials/thap-yeu-thai-cuc-quyen"
     },
     {
       "source": "foundations/thai-cuc-quyen",
       "target": "technique/thoi-thu"
+    },
+    {
+      "source": "essentials/hu-linh-dinh-kinh",
+      "target": "essentials/thap-yeu-thai-cuc-quyen"
+    },
+    {
+      "source": "technique/kinh-luc",
+      "target": "foundations/thai-cuc-quyen"
+    },
+    {
+      "source": "technique/thoi-thu",
+      "target": "foundations/thai-cuc-quyen"
     }
   ],
   "topIds": [
