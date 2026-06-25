@@ -7,9 +7,7 @@
 🌐 **[🇻🇳 Tiếng Việt](https://henryPhamDuc.github.io/taichi-wiki/)** (bạn đang ở đây) · **[🇬🇧 English](https://henryPhamDuc.github.io/taichi-wiki-en/)** · **[🇻🇳🇬🇧 Song ngữ / Bilingual Vault](https://henryphamduc.github.io/taichi/)**
 </div>
 
-> 🧘 **[Henry's Taichi Practice Vault](https://henryphamduc.github.io/taichi/)** — Thư viện tài nguyên song ngữ (trang đơn, để duyệt)
->
-> 🎾 **[Tennis Wiki](https://henryphamduc.github.io/tennis-wiki/)** — Wiki tennis Việt Nam đi kèm
+> 🧘 **[Kho Thái Cực của Henry / Henry's Taichi Practice Vault](https://henryphamduc.github.io/taichi/)** — Thư viện tài nguyên song ngữ (trang đơn, để duyệt)
 
 Tổng hợp từ **Kho kiến thức Taichi**, **Taichi Wiki Project**, và thư viện **Taichi-QiGong-Taoism** của Henry Phạm. Wiki song ngữ này là điểm khởi đầu để học Thái Cực Quyền từ lịch sử, yếu lĩnh, kỹ thuật cho đến ứng dụng sức khỏe và tennis.
 
