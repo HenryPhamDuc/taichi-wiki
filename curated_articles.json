@@ -1,0 +1,1628 @@
+[
+  {
+    "cluster": "technique",
+    "slug": "nguon-goc-va-su-khac-biet-giua-cac-phai-vo",
+    "title": "1.1. Nguồn Gốc và Sự Khác Biệt Giữa Các Phái Võ",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "dong-ho-duong-va-su-phat-trien-cua-thai-cuc-quyen",
+    "title": "1.2. Dòng Họ Dương và Sự Phát Triển Của Thái Cực Quyền",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "thap-yeu-cua-thai-cuc-quyen",
+    "title": "2.1. Thập Yếu của Thái Cực Quyền",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "bang-liet-ke-cac-diem-kinh-va-can-nguyen-cua-kinh",
+    "title": "2.2. Bảng Liệt Kê Các Điểm Kình và Căn Nguyên Của Kình",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "nhan-than-trong-thai-cuc-quyen",
+    "title": "2.3. Nhãn Thần trong Thái Cực Quyền",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "thai-cuc-quyen-do-giai-danh-xung-quyen-thuc",
+    "title": "Chương 3: Thái Cực Quyền Đồ Giải (Danh xưng quyền thức)",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "danh-sach-cac-quyen-thuc",
+    "title": "3.1. Danh Sách Các Quyền Thức",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "mo-ta-chi-tiet-mot-so-quyen-thuc-tieu-bieu",
+    "title": "3.2. Mô Tả Chi Tiết Một Số Quyền Thức Tiêu Biểu",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "thai-cuc-thoi-thu",
+    "title": "Chương 4: Thái Cực Thôi Thủ",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "dinh-bo-thoi-thu",
+    "title": "4.1. Đinh Bộ Thôi Thủ",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "hoat-bo-thoi-thu",
+    "title": "4.2. Hoạt Bộ Thôi Thủ",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "dai-phuc",
+    "title": "4.3. Đại Phúc",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "technique",
+    "slug": "thai-cuc-quyen-luan",
+    "title": "5.1. Thái Cực Quyền Luận",
+    "source": "Hướng dẫn kỹ thuật Thái Cực Quyền"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-the-thao-tennischuong-19-28",
+    "title": "PHẦN III: ỨNG DỤNG TRONG THỂ THAO TENNIS (Chương 19-28)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-doi-song-hang-ngaychuong-29-35",
+    "title": "PHẦN IV: ỨNG DỤNG TRONG ĐỜI SỐNG HÀNG NGÀY (Chương 29-35)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "nghien-cuu-khoa-hoc-va-tuong-laichuong-36-40",
+    "title": "PHẦN V: NGHIÊN CỨU KHOA HỌC VÀ TƯƠNG LAI (Chương 36-40)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-quan-tri-su-met-moi-vi-ra-quyet-dinh-decision-fatigue",
+    "title": "PHẦN 3: QUẢN TRỊ \"SỰ MỆT MỎI VÌ RA QUYẾT ĐỊNH\" (DECISION FATIGUE)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep",
+    "title": "PHẦN 4: XÂY DỰNG TRẠNG THÁI \"FLOW\" TRONG QUẢN TRỊ DOANH NGHIỆP",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phong-ngua-burnout-va-phuc-hoi-nang-luong-cho-lanh-dao",
+    "title": "PHẦN 5: PHÒNG NGỪA BURNOUT VÀ PHỤC HỒI NĂNG LƯỢNG CHO LÃNH ĐẠO",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron",
+    "title": "PHẦN 6: THIẾT LẬP LỊCH TRÌNH VẬN ĐỘNG CHO DOANH NHÂN BẬN RỘN",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis",
+    "title": "PHẦN 1: KHÁI NIỆM \"SỰ BÁM RỄ\" (ROOTING) TRONG DI CHUYỂN TENNIS",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh",
+    "title": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG CÁC PHA DI CHUYỂN ĐIỂN HÌNH",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi",
+    "title": "PHẦN 3: SỰ THĂNG BẰNG ĐỘNG VÀ KHẢ NĂNG \"PHỤC HỒI TRỌNG TÂM\" TỨC THỜI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
+    "title": "PHẦN 4: SỰ PHỐI HỢP GIỮA FOOTWORK VÀ NHỊP ĐIỆU HƠI THỞ - \"SỰ ĐỒNG BỘ HOÀN HẢO\"",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio",
+    "title": "PHẦN 5: CÁC BÀI TẬP BỔ TRỢ ĐẶC THÙ ĐỂ CẢI THIỆN ĐỘ NHẠY CỦA LÒNG BÀN CHÂN (PROPRIOCEPTION)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang",
+    "title": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN BỘ CHÂN TRONG 1 NĂM - TỪ CƠ BẢN ĐẾN BẢN NĂNG",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand",
+    "title": "PHẦN 1: CHUỖI ĐỘNG LỰC (KINETIC CHAIN) VÀ NGUYÊN LÝ \"BÁM RỄ\" TRONG FOREHAND",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
+    "title": "PHẦN 2: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP GIỮA HÔNG VÀ VAI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot",
+    "title": "PHẦN 3: KỸ THUẬT \"SONG\" (THẢ LỎNG) CỔ TAY ĐỂ TĂNG TỐC ĐỘ ĐẦU VỢT",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot",
+    "title": "PHẦN 4: TỐI ƯU HÓA ĐIỂM TIẾP XÚC VÀ GÓC MẶT VỢT",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop",
+    "title": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te",
+    "title": "PHẦN 6: PHÂN TÍCH CÁC LỖI SAI THƯỜNG GẶP VÀ CÁCH CHỈNH SỬA THỰC TẾ",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung",
+    "title": "PHẦN 1: SINH CƠ HỌC CỦA CÚ BACKHAND VÀ TRIẾT LÝ \"CÂN BẰNG ĐỐI XỨNG\"",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand",
+    "title": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG DI CHUYỂN BACKHAND",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
+    "title": "PHẦN 3: SỨC MẠNH XOAY TRỤC VÀ LỰC XOẮN ỐC TRONG BACKHAND",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot",
+    "title": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY VÀ \"SỰ TRỄ\" CỦA ĐẦU VỢT",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong",
+    "title": "PHẦN 5: ĐIỂM TIẾP XÚC LÝ TƯỞNG VÀ CHIẾN THUẬT ĐIỀU HƯỚNG BÓNG",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH KHẮC PHỤC THỰC TẾ",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-triet-ly-tinh-trong-dong-va-kha-nang-phan-ung-tuc-thi",
+    "title": "PHẦN 1: TRIẾT LÝ \"TĨNH TRONG ĐỘNG\" VÀ KHẢ NĂNG PHẢN ỨNG TỨC THÌ",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-bien-the-cua-bam-re-trong-vi-tri-bat-luoi",
+    "title": "PHẦN 2: BIẾN THỂ CỦA \"BÁM RỄ\" TRONG VỊ TRÍ BẮT LƯỚI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong",
+    "title": "PHẦN 3: KỸ THUẬT \"LẮNG NGHE\" (TING JIN) ĐỂ DỰ ĐOÁN HƯỚNG BÓNG",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley",
+    "title": "PHẦN 4: CƠ CHẾ \"NHU\" VÀ \"CƯƠNG\" TRONG CÁC CÚ VOLLEY",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi",
+    "title": "PHẦN 5: PHỐI HỢP FOOTWORK VÀ NHỊP ĐIỆU CHO CÚ BẮT LƯỚI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN KỸ NĂNG BẮT LƯỚI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc",
+    "title": "PHẦN 1: CHUỖI ĐỘNG LỰC TRONG CÚ SMASH - TỪ \"BÁM RỄ\" ĐẾN \"PHÁT LỰC\"",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force",
+    "title": "PHẦN 2: SỨC MẠNH TỪ CHIỀU THỨC: TẬN DỤNG LỰC ĐẨY CHIỀU THỨC (VERTICAL FORCE)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phaan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong",
+    "title": "PHẦẦN 3: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP ĐIỀU HUYẾT GIỮA VAI VÀ HÔNG",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da",
+    "title": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY ĐỂ ĐẠT TỐC ĐỘ ĐẦU VỢT TỐI ĐA",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2",
+    "title": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN CÚ SMASH",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re",
+    "title": "PHẦN 1: GIAI ĐOẠN CHUẨN BỊ - THIẾT LẬP \"SỰ TĨNH LẶNG\" VÀ BÁM RỄ",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai",
+    "title": "PHẦN 2: QUY TRÌNH TUNG BÓNG VÀ SỰ PHỐI HỢP \"TAY TRÁI - TAY PHẢI\"",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot",
+    "title": "PHẦN 3: CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-tiep-theo-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot-hoan-thie",
+    "title": "PHẦN 3 (tiếp theo): CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT (Hoàn thiện)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ky-thuat-xoay-truc-va-tao-do-xoay-cho-cac-kieu-serve",
+    "title": "PHẦN 4: KỸ THUẬT XOAY TRỤC VÀ TẠO ĐỘ XOÁY CHO CÁC KIỂU SERVE",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-qua-trinh-follow-through-va-bao-ve-khop-vai",
+    "title": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH VÀ BẢO VỆ KHỚP VAI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-luyen-tap",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH LUYỆN TẬP",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-co-hoc-ve-chan-thuong-tennis-va-nguyen-ly-sōng-tha-long",
+    "title": "PHẦN 1: SINH CƠ HỌC VỀ CHẤN THƯƠNG TENNIS VÀ NGUYÊN LÝ \"SŌNG\" (THẢ LỎNG)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-ung-dung-cu-the-cua-thai-cuc-quyen-vao-phong-ngua-chan-thuong-vai-va-co-t",
+    "title": "PHẦN 2: ỨNG DỤNG CỤ THỂ CỦA THÁI CỰC QUYỀN VÀO PHÒNG NGỪA CHẤN THƯƠNG VAI VÀ CỔ TAY",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-phong-ngua-va-phuc-hoi-chan-thuong-lung-duoi-lower-back",
+    "title": "PHẦN 3: PHÒNG NGỪA VÀ PHỤC HỒI CHẤN THƯƠNG LƯNG DƯỚI (LOWER BACK)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-bai-tap-hanh-phuc-warm-up-va-cool-down-voi-tcq-truocsau-khi-tap-tennis",
+    "title": "PHẦN 4: BÀI TẬP \"HÀNH PHÚC\" - WARM-UP VÀ COOL-DOWN VỚI TCQ TRƯỚC/SAU KHI TẬP TENNIS",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-dinh-duong-va-phuc-hoi-sau-chan-thuong-cho-van-dong-vien-tennis",
+    "title": "PHẦN 5: DINH DƯỠNG VÀ PHỤC HỒI SAU CHẤN THƯƠNG CHO VẬN ĐỘNG VIÊN TENNIS",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-lo-trinh-xay-dung-co-the-khong-chan-thuong-cho-tay-vot-lau-dai",
+    "title": "PHẦN 6: LỘ TRÌNH XÂY DỰNG CƠ THỂ \"KHÔNG CHẤN THƯƠNG\" CHO TAY VỢT LÂU DÀI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-ap-luc-thi-dau-va-co-che-dong-bang-choking",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ ÁP LỰC THI ĐẤU VÀ CƠ CHẾ \"ĐÓNG BĂNG\" (CHOKING)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-nguyen-ly-bam-re-tam-tri-mental-rooting-cua-thai-cuc-quyen",
+    "title": "PHẦN 2: NGUYÊN LÝ \"BÁM RỄ TÂM TRÍ\" (MENTAL ROOTING) CỦA THÁI CỰC QUYỀN",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-xay-dung-tam-the-chien-binh-the-warrior-mindset",
+    "title": "PHẦN 3: XÂY DỰNG \"TÂM THẾ CHIẾN BINH\" (THE WARRIOR MINDSET)",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-quan-ly-cam-xuc-trong-cac-tinh-huong-dac-biet",
+    "title": "PHẦN 4: QUẢN LÝ CẢM XÚC TRONG CÁC TÌNH HUỐNG ĐẶC BIỆT",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phuc-hoi-tinh-than-giua-cac-set-va-sau-tran-dau",
+    "title": "PHẦN 5: PHỤC HỒI TINH THẦN GIỮA CÁC SET VÀ SAU TRẬN ĐẤU",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-lo-trinh-ren-luyen-tam-ly-thi-dau-cho-tay-vot-trong-1-nam",
+    "title": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN TÂM LÝ THI ĐẤU CHO TAY VỢT TRONG 1 NĂM",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-nghe-thuat-quan-sat-thu-dong-trong-thai-cuc-quyen",
+    "title": "PHẦN 1: NGHỆ THUẬT \"QUAN SÁT THỤ ĐỘNG\" TRONG THÁI CỰC QUYỀN",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-phan-tich-ngon-ngu-co-the-cua-doi-thu",
+    "title": "PHẦN 2: PHÂN TÍCH \"NGÔN NGỮ CƠ THỂ\" CỦA ĐỐI THỦ",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-phan-tich-diem-manh-diem-yeu-cua-doi-thu-thong-qua-ham-hung-bat-boi",
+    "title": "PHẦN 3: PHÂN TÍCH ĐIỂM MẠNH - ĐIỂM YẾU CỦA ĐỐI THỦ THÔNG QUA \"HÀM HUNG BẠT BỐI\"",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-chien-thuat-hoa-giai-trung-hoa-suc-manh-cua-doi-thu",
+    "title": "PHẦN 4: CHIẾN THUẬT \"HÓA GIẢI\" - TRUNG HÒA SỨC MẠNH CỦA ĐỐI THỦ",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-xay-dung-ban-do-chien-thuat-truoc-va-trong-tran-dau",
+    "title": "PHẦN 5: XÂY DỰNG \"BẢN ĐỒ CHIẾN THUẬT\" TRƯỚC VÀ TRONG TRẬN ĐẤU",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-lo-trinh-ren-luyen-kha-nang-doc-tran-dau-trong-6-thang",
+    "title": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN KHẢ NĂNG ĐỌC TRẬN ĐẤU TRONG 6 THÁNG",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-triet-ly-hop-nhat-y-co-so-cua-phoi-hop-doi-doi",
+    "title": "PHẦN 1: TRIẾT LÝ \"HỢP NHẤT Ý\" - CƠ SỞ CỦA PHỐI HỢP ĐỘI ĐÔI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-giao-tiep-phi-ngon-ngu-ngon-ngu-tham-lang-trong-danh-doi",
+    "title": "PHẦN 2: GIAO TIẾP PHI NGÔN NGỮ - \"NGÔN NGỮ THẦM LẶNG\" TRONG ĐÁNH ĐÔI",
+    "source": "Nghệ thuật sống khỏe (Phần III)"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "ky-thuat-footwork-nang-cao-va-su-thang-bang-dong-trong-tennis",
+    "title": "CHƯƠNG 21: KỸ THUẬT FOOTWORK NÂNG CAO VÀ SỰ THĂNG BẰNG ĐỘNG TRONG TENNIS",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-1-khai-niem-su-bam-re-rooting-trong-di-chuyen-tennis",
+    "title": "PHẦN 1: KHÁI NIỆM \"SỰ BÁM RỄ\" (ROOTING) TRONG DI CHUYỂN TENNIS",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-2-quan-ly-trong-tam-hu-thuc-trong-cac-pha-di-chuyen-dien-hinh",
+    "title": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG CÁC PHA DI CHUYỂN ĐIỂN HÌNH",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-3-su-thang-bang-dong-va-kha-nang-phuc-hoi-trong-tam-tuc-thoi",
+    "title": "PHẦN 3: SỰ THĂNG BẰNG ĐỘNG VÀ KHẢ NĂNG \"PHỤC HỒI TRỌNG TÂM\" TỨC THỜI",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-4-su-phoi-hop-giua-footwork-va-nhip-dieu-hoi-tho-su-dong-bo-hoan-hao",
+    "title": "PHẦN 4: SỰ PHỐI HỢP GIỮA FOOTWORK VÀ NHỊP ĐIỆU HƠI THỞ - \"SỰ ĐỒNG BỘ HOÀN HẢO\"",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-5-cac-bai-tap-bo-tro-dac-thu-de-cai-thien-do-nhay-cua-long-ban-chan-proprio",
+    "title": "PHẦN 5: CÁC BÀI TẬP BỔ TRỢ ĐẶC THÙ ĐỂ CẢI THIỆN ĐỘ NHẠY CỦA LÒNG BÀN CHÂN (PROPRIOCEPTION)",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-6-lo-trinh-ren-luyen-bo-chan-trong-1-nam-tu-co-ban-den-ban-nang",
+    "title": "PHẦN 6: LỘ TRÌNH RÈN LUYỆN BỘ CHÂN TRONG 1 NĂM - TỪ CƠ BẢN ĐẾN BẢN NĂNG",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-1-chuoi-dong-luc-kinetic-chain-va-nguyen-ly-bam-re-trong-forehand",
+    "title": "PHẦN 1: CHUỖI ĐỘNG LỰC (KINETIC CHAIN) VÀ NGUYÊN LÝ \"BÁM RỄ\" TRONG FOREHAND",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-2-luc-xoan-oc-spiral-force-va-su-phoi-hop-giua-hong-va-vai",
+    "title": "PHẦN 2: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP GIỮA HÔNG VÀ VAI",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-3-ky-thuat-song-tha-long-co-tay-de-tang-toc-do-dau-vot",
+    "title": "PHẦN 3: KỸ THUẬT \"SONG\" (THẢ LỎNG) CỔ TAY ĐỂ TĂNG TỐC ĐỘ ĐẦU VỢT",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-4-toi-uu-hoa-diem-tiep-xuc-va-goc-mat-vot",
+    "title": "PHẦN 4: TỐI ƯU HÓA ĐIỂM TIẾP XÚC VÀ GÓC MẶT VỢT",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop",
+    "title": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-6-phan-tich-cac-loi-sai-thuong-gap-va-cach-chinh-sua-thuc-te",
+    "title": "PHẦN 6: PHÂN TÍCH CÁC LỖI SAI THƯỜNG GẶP VÀ CÁCH CHỈNH SỬA THỰC TẾ",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-1-sinh-co-hoc-cua-cu-backhand-va-triet-ly-can-bang-doi-xung",
+    "title": "PHẦN 1: SINH CƠ HỌC CỦA CÚ BACKHAND VÀ TRIẾT LÝ \"CÂN BẰNG ĐỐI XỨNG\"",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-2-quan-ly-trong-tam-hu-thuc-trong-di-chuyen-backhand",
+    "title": "PHẦN 2: QUẢN LÝ TRỌNG TÂM \"HƯ - THỰC\" TRONG DI CHUYỂN BACKHAND",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-3-suc-manh-xoay-truc-va-luc-xoan-oc-trong-backhand",
+    "title": "PHẦN 3: SỨC MẠNH XOAY TRỤC VÀ LỰC XOẮN ỐC TRONG BACKHAND",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-4-ky-thuat-tha-long-co-tay-va-su-tre-cua-dau-vot",
+    "title": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY VÀ \"SỰ TRỄ\" CỦA ĐẦU VỢT",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-5-diem-tiep-xuc-ly-tuong-va-chien-thuat-dieu-huong-bong",
+    "title": "PHẦN 5: ĐIỂM TIẾP XÚC LÝ TƯỞNG VÀ CHIẾN THUẬT ĐIỀU HƯỚNG BÓNG",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-khac-phuc-thuc-te",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH KHẮC PHỤC THỰC TẾ",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-3-ky-thuat-lang-nghe-ting-jin-de-du-doan-huong-bong",
+    "title": "PHẦN 3: KỸ THUẬT \"LẮNG NGHE\" (TING JIN) ĐỂ DỰ ĐOÁN HƯỚNG BÓNG",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-4-co-che-nhu-va-cuong-trong-cac-cu-volley",
+    "title": "PHẦN 4: CƠ CHẾ \"NHU\" VÀ \"CƯƠNG\" TRONG CÁC CÚ VOLLEY",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-5-phoi-hop-footwork-va-nhip-dieu-cho-cu-bat-luoi",
+    "title": "PHẦN 5: PHỐI HỢP FOOTWORK VÀ NHỊP ĐIỆU CHO CÚ BẮT LƯỚI",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-ky-nang-bat-luoi",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN KỸ NĂNG BẮT LƯỚI",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-1-chuoi-dong-luc-trong-cu-smash-tu-bam-re-den-phat-luc",
+    "title": "PHẦN 1: CHUỖI ĐỘNG LỰC TRONG CÚ SMASH - TỪ \"BÁM RỄ\" ĐẾN \"PHÁT LỰC\"",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-2-suc-manh-tu-chieu-thuc-tan-dung-luc-day-chieu-thuc-vertical-force",
+    "title": "PHẦN 2: SỨC MẠNH TỪ CHIỀU THỨC: TẬN DỤNG LỰC ĐẨY CHIỀU THỨC (VERTICAL FORCE)",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-3-luc-xoan-oc-spiral-force-va-su-phoi-hop-dieu-huyet-giua-vai-va-hong",
+    "title": "PHẦN 3: LỰC XOẮN ỐC (SPIRAL FORCE) VÀ SỰ PHỐI HỢP ĐIỀU HUYẾT GIỮA VAI VÀ HÔNG",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-4-ky-thuat-tha-long-co-tay-de-dat-toc-do-dau-vot-toi-da",
+    "title": "PHẦN 4: KỸ THUẬT THẢ LỎNG CỔ TAY ĐỂ ĐẠT TỐC ĐỘ ĐẦU VỢT TỐI ĐA",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-5-qua-trinh-follow-through-giai-phong-nang-luong-va-bao-ve-khop-2",
+    "title": "PHẦN 5: QUÁ TRÌNH FOLLOW-THROUGH - GIẢI PHÓNG NĂNG LƯỢNG VÀ BẢO VỆ KHỚP",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-6-phan-tich-loi-sai-va-lo-trinh-hoan-thien-cu-smash",
+    "title": "PHẦN 6: PHÂN TÍCH LỖI SAI VÀ LỘ TRÌNH HOÀN THIỆN CÚ SMASH",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-1-giai-doan-chuan-bi-thiet-lap-su-tinh-lang-va-bam-re",
+    "title": "PHẦN 1: GIAI ĐOẠN CHUẨN BỊ - THIẾT LẬP \"SỰ TĨNH LẶNG\" VÀ BÁM RỄ",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-2-quy-trinh-tung-bong-va-su-phoi-hop-tay-trai-tay-phai",
+    "title": "PHẦN 2: QUY TRÌNH TUNG BÓNG VÀ SỰ PHỐI HỢP \"TAY TRÁI - TAY PHẢI\"",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "tennis",
+    "slug": "phan-3-chuoi-dong-luc-trong-pha-vung-vot-tu-chan-len-dau-vot",
+    "title": "PHẦN 3: CHUỖI ĐỘNG LỰC TRONG PHA VUNG VỢT - TỪ CHÂN LÊN ĐẦU VỢT",
+    "source": "Taichi & Tennis Lab"
+  },
+  {
+    "cluster": "health",
+    "slug": "nen-tang-thai-cuc-quyen-chuong-1-8",
+    "title": "PHẦN I: NỀN TẢNG THÁI CỰC QUYỀN** (Chương 1-8)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-suc-khoe-va-y-hoc-chuong-9-18",
+    "title": "PHẦN II: ỨNG DỤNG TRONG SỨC KHỎE VÀ Y HỌC** (Chương 9-18)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-the-thao-tennis-chuong-19-28",
+    "title": "PHẦN III: ỨNG DỤNG TRONG THỂ THAO TENNIS** (Chương 19-28)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-doi-song-hang-ngay-chuong-29-35",
+    "title": "PHẦN IV: ỨNG DỤNG TRONG ĐỜI SỐNG HÀNG NGÀY** (Chương 29-35)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nghien-cuu-khoa-hoc-va-tuong-lai-chuong-36-40",
+    "title": "PHẦN V: NGHIÊN CỨU KHOA HỌC VÀ TƯƠNG LAI** (Chương 36-40)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "giai-doan-3-hieu-dinh-va-xuat-ban-2-thang",
+    "title": "Giai đoạn 3: Hiệu đính và xuất bản (2 tháng)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nguon-goc-tai-dinh-nghia-tu-khao-co-hoc-den-di-truyen-hoc",
+    "title": "1.1. NGUỒN GỐC TÁI ĐỊNH NGHĨA: TỪ KHẢO CỔ HỌC ĐẾN DI TRUYỀN HỌC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "triet-ly-vo-cuc-nhi-thai-cuc-ung-dung-trong-vat-ly-luong-tu",
+    "title": "1.2. TRIẾT LÝ \"VÔ CỰC NHI THÁI CỰC\" ỨNG DỤNG TRONG VẬT LÝ LƯỢNG TỬ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "thai-cuc-do-40-mo-hinh-3d-tuong-tac-thuc-te-ao",
+    "title": "1.3. THÁI CỰC ĐỒ 4.0: MÔ HÌNH 3D TƯƠNG TÁC THỰC TẾ ẢO",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "di-san-unesco-bao-ton-bang-cong-nghe-blockchain",
+    "title": "1.4. DI SẢN UNESCO: BẢO TỒN BẰNG CÔNG NGHỆ BLOCKCHAIN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "thai-cuc-quyen-trong-khong-gian-vu-tru",
+    "title": "1.5. THÁI CỰC QUYỀN TRONG KHÔNG GIAN VŨ TRỤ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "triet-ly-dung-y-bat-dung-luc-trong-tri-tue-nhan-tao",
+    "title": "1.6. TRIẾT LÝ \"DỤNG Ý BẤT DỤNG LỰC\" TRONG TRÍ TUỆ NHÂN TẠO",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ket-luan-thai-cuc-quyen-bo-mon-cua-tuong-lai",
+    "title": "1.7. KẾT LUẬN: THÁI CỰC QUYỀN - BỘ MÔN CỦA TƯƠNG LAI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nguyen-ly-dung-y-bat-dung-luc-khoa-hoc-than-kinh-ung-dung",
+    "title": "2.1. NGUYÊN LÝ \"DỤNG Ý BẤT DỤNG LỰC\" - KHOA HỌC THẦN KINH ỨNG DỤNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "hu-linh-dinh-kinh-cong-nghe-cam-bien-sinh-hoc",
+    "title": "2.2. \"HƯ LINH ĐĨNH KÌNH\" - CÔNG NGHỆ CẢM BIẾN SINH HỌC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-hu-thuc-nghien-cuu-can-bang-dong-luc-hoc",
+    "title": "2.3. \"PHÂN HƯ THỰC\" - NGHIÊN CỨU CÂN BẰNG ĐỘNG LỰC HỌC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "10-yeu-quyet-duoc-giai-ma-bang-vat-ly-luong-tu",
+    "title": "2.4. 10 YẾU QUYẾT ĐƯỢC GIẢI MÃ BẰNG VẬT LÝ LƯỢNG TỬ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "cong-nghe-ai-phan-tich-yeu-quyet",
+    "title": "2.5. CÔNG NGHỆ AI PHÂN TÍCH YẾU QUYẾT",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-robotics",
+    "title": "2.6. ỨNG DỤNG TRONG ROBOTICS",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nghien-cuu-ve-khi-duoi-goc-nhin-vat-ly",
+    "title": "2.7. NGHIÊN CỨU VỀ \"KHÍ\" DƯỚI GÓC NHÌN VẬT LÝ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nghien-cuu-ve-y-va-y-thuc-luong-tu",
+    "title": "2.9. NGHIÊN CỨU VỀ \"Ý\" VÀ Ý THỨC LƯỢNG TỬ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ket-luan-tu-nghe-thuat-den-khoa-hoc-dinh-cao",
+    "title": "2.10. KẾT LUẬN: TỪ NGHỆ THUẬT ĐẾN KHOA HỌC ĐỈNH CAO",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem",
+    "title": "3.1. NỀN TẢNG KHOA HỌC: TỪ SÂN TẬP ĐẾN PHÒNG THÍ NGHIỆM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen",
+    "title": "3.2. FOOTWORK VÀ DI CHUYỂN: CÁCH MẠNG TỪ THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ky-thuat-forehand-cach-mang-co-hoc-luong-tu",
+    "title": "3.3. KỸ THUẬT FOREHAND: CÁCH MẠNG CƠ HỌC LƯỢNG TỬ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nen-tang-khoa-hoc-tu-san-tap-den-phong-thi-nghiem-2",
+    "title": "3.1. NỀN TẢNG KHOA HỌC: TỪ SÂN TẬP ĐẾN PHÒNG THÍ NGHIỆM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "footwork-va-di-chuyen-cach-mang-tu-thai-cuc-quyen-2",
+    "title": "3.2. FOOTWORK VÀ DI CHUYỂN: CÁCH MẠNG TỪ THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ky-thuat-forehand-cach-mang-co-hoc-luong-tu-2",
+    "title": "3.3. KỸ THUẬT FOREHAND: CÁCH MẠNG CƠ HỌC LƯỢNG TỬ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-thai-cuc-quyen-trong-tennis-toi-uu-hoa-van-dong-va-can-bang",
+    "title": "CHƯƠNG 3: ỨNG DỤNG THÁI CỰC QUYỀN TRONG TENNIS - TỐI ƯU HÓA VẬN ĐỘNG VÀ CÂN BẰNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "su-tuong-dong-giua-triet-ly-thai-cuc-va-dieu-kien-thi-dau-tennis",
+    "title": "3.1. SỰ TƯƠNG ĐỒNG GIỮA TRIẾT LÝ THÁI CỰC VÀ ĐIỀU KIỆN THI ĐẤU TENNIS",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "cai-thien-footwork-bo-chan-qua-nguyen-ly-hu-thuc",
+    "title": "3.2. CẢI THIỆN FOOTWORK (BỘ CHÂN) QUA NGUYÊN LÝ \"HƯ - THỰC\"",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "khai-thac-suc-manh-tu-chuoi-dong-luc-kinetic-chain",
+    "title": "3.3. KHAI THÁC SỨC MẠNH TỪ \"CHUỖI ĐỘNG LỰC\" (KINETIC CHAIN)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "kiem-soat-tam-ly-va-nhip-tho-trong-thi-dau",
+    "title": "3.4. KIỂM SOÁT TÂM LÝ VÀ NHỊP THỞ TRONG THI ĐẤU",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phong-ngua-chan-thuong-va-phuc-hoi",
+    "title": "3.5. PHÒNG NGỪA CHẤN THƯƠNG VÀ PHỤC HỒI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "thai-cuc-quyen-24-thuc-nen-tang-van-dong-cho-nguoi-moi-bat-dau",
+    "title": "CHƯƠNG 4: THÁI CỰC QUYỀN 24 THỨC - NỀN TẢNG VẬN ĐỘNG CHO NGƯỜI MỚI BẮT ĐẦU",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "cau-truc-va-y-nghia-cua-bai-24-thuc",
+    "title": "4.1. CẤU TRÚC VÀ Ý NGHĨA CỦA BÀI 24 THỨC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-tich-chi-tiet-cac-nhom-dong-tac-co-ban",
+    "title": "4.2. PHÂN TÍCH CHI TIẾT CÁC NHÓM ĐỘNG TÁC CƠ BẢN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "lo-trinh-huyen-luyen-cho-nguoi-moi-so-do-3-giai-doan",
+    "title": "4.3. LỘ TRÌNH HUYẾN LUYỆN CHO NGƯỜI MỚI (SƠ ĐỒ 3 GIAI ĐOẠN)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "nhung-sai-lam-pho-bien-va-cach-khac-phuc-thuc-te",
+    "title": "4.4. NHỮNG SAI LẦM PHỔ BIẾN VÀ CÁCH KHẮC PHỤC THỰC TẾ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "lich-tap-luyen-thuc-te-cho-nguoi-ban-ron",
+    "title": "4.5. LỊCH TẬP LUYỆN THỰC TẾ CHO NGƯỜI BẬN RỘN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-giai-ma-khai-niem-khi-duoi-goc-do-sinh-ly-hoc-hien-dai",
+    "title": "PHẦN 1: GIẢI MÃ KHÁI NIỆM \"KHÍ\" DƯỚI GÓC ĐỘ SINH LÝ HỌC HIỆN ĐẠI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-giai-phau-hoc-ve-hoi-tho-co-che-van-hanh-cua-co-may-ho-hap",
+    "title": "PHẦN 2: GIẢI PHẪU HỌC VỀ HƠI THỞ - CƠ CHẾ VẬN HÀNH CỦA \"CỖ MÁY\" HÔ HẤP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ba-cap-do-tho-trong-thai-cuc-quyen-tu-tho-nong-den-tho-dieu-khien-tam-the",
+    "title": "PHẦN 3: BA CẤP ĐỘ THỞ TRONG THÁI CỰC QUYỀN - TỪ THỞ NÔNG ĐẾN THỞ ĐIỀU KHIỂN TÂM THẾ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-moi-lien-he-giua-hoi-tho-va-he-than-kinh-tu-chu-co-che-dieu-khien-cong-ta",
+    "title": "PHẦN 4: MỐI LIÊN HỆ GIỮA HƠI THỞ VÀ HỆ THẦN KINH TỰ CHỦ - CƠ CHẾ ĐIỀU KHIỂN \"CÔNG TẮC\" CƠ THỂ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-ky-thuat-tho-bung-chi-tiet-hanh-trinh-tu-nhan-thuc-den-lam-chu",
+    "title": "PHẦN 5: KỸ THUẬT THỞ BỤNG CHI TIẾT - HÀNH TRÌNH TỪ NHẬN THỨC ĐẾN LÀM CHỦ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-ung-dung-hoi-tho-trong-tennis-toi-uu-hoa-hieu-suat-va-phuc-hoi",
+    "title": "PHẦN 6: ỨNG DỤNG HƠI THỞ TRONG TENNIS - TỐI ƯU HÓA HIỆU SUẤT VÀ PHỤC HỒI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-7-su-dong-bo-giua-hoi-tho-va-chuyen-dong-breath-movement-synchronization-ng",
+    "title": "PHẦN 7: SỰ ĐỒNG BỘ GIỮA HƠI THỞ VÀ CHUYỂN ĐỘNG (BREATH-MOVEMENT SYNCHRONIZATION) - NGHỆ THUẬT ĐIỀU PHỐI NĂNG LƯỢNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-8-khi-cong-va-kha-nang-dao-thai-doc-to-tre-hoa-te-bao-anti-aging",
+    "title": "PHẦN 8: KHÍ CÔNG VÀ KHẢ NĂNG ĐÀO THẢI ĐỘC TỐ, TRẺ HÓA TẾ BÀO (ANTI-AGING)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-9-ung-dung-khi-cong-trong-dieu-tri-benh-ly-ho-hap-va-tim-mach",
+    "title": "PHẦN 9: ỨNG DỤNG KHÍ CÔNG TRONG ĐIỀU TRỊ BỆNH LÝ HÔ HẤP VÀ TIM MẠCH",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-10-lo-trinh-tap-tho-chi-tiet-cho-tung-nhom-do-tuoi",
+    "title": "PHẦN 10: LỘ TRÌNH TẬP THỞ CHI TIẾT CHO TỪNG NHÓM ĐỘ TUỔI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "tong-ket-chuong-5",
+    "title": "TỔNG KẾT CHƯƠNG 5",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "tam-thuc-va-thien-trong-luyen-tap-lam-chu-tam-tri-de-dieu-khien-co-the",
+    "title": "CHƯƠNG 6: TÂM THỨC VÀ THIỀN TRONG LUYỆN TẬP - LÀM CHỦ TÂM TRÍ ĐỂ ĐIỀU KHIỂN CƠ THỂ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-thien-dong-va-su-tinh-thuc-mindfulness-trong-van-dong",
+    "title": "PHẦN 1: THIỀN ĐỘNG VÀ SỰ TỈNH THỨC (MINDFULNESS) TRONG VẬN ĐỘNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-trang-thai-flow-dong-chay-va-hieu-suat-dinh-cao-peak-performance",
+    "title": "PHẦN 2: TRẠNG THÁI \"FLOW\" (DÒNG CHẢY) VÀ HIỆU SUẤT ĐỈNH CAO (PEAK PERFORMANCE)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-quan-ly-ap-luc-va-diem-tinh-trong-tennis-chien-thang-noi-so-de-dat-den-su",
+    "title": "PHẦN 3: QUẢN LÝ ÁP LỰC VÀ \"ĐIỂM TĨNH\" TRONG TENNIS - CHIẾN THẮNG NỖI SỢ ĐỂ ĐẠT ĐẾN SỰ CHUẨN XÁC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ky-thuat-hinh-dung-visualization-va-luyen-tap-tam-tri-phong-gym-cua-y-thu",
+    "title": "PHẦN 4: KỸ THUẬT HÌNH DUNG (VISUALIZATION) VÀ LUYỆN TẬP TÂM TRÍ - \"PHÒNG GYM\" CỦA Ý THỨC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-tri-tue-cam-xuc-eq-va-su-bao-dung-trong-thi-dau-nghe-thuat-nhu-khac-cuong",
+    "title": "PHẦN 5: TRÍ TUỆ CẢM XÚC (EQ) VÀ SỰ BAO DUNG TRONG THI ĐẤU - NGHỆ THUẬT \"NHU KHẮC CƯƠNG\" TRÊN MẶT SÂN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-moi-lien-he-giua-tam-thuc-giac-ngu-va-phuc-hoi-sieu-toc",
+    "title": "PHẦN 6: MỐI LIÊN HỆ GIỮA TÂM THỨC, GIẤC NGỦ VÀ PHỤC HỒI SIÊU TỐC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-7-tong-ket-lo-trinh-ren-luyen-tam-tri-tu-nguoi-moi-den-bac-thay",
+    "title": "PHẦN 7: TỔNG KẾT LỘ TRÌNH RÈN LUYỆN TÂM TRÍ - TỪ NGƯỜI MỚI ĐẾN BẬC THẦY",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "co-che-tac-dong-den-he-tim-mach-va-phong-ngua-dot-quy",
+    "title": "CHƯƠNG 7: CƠ CHẾ TÁC ĐỘNG ĐẾN HỆ TIM MẠCH VÀ PHÒNG NGỪA ĐỘT QUỴ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-trai-tim-va-tac-dong-cua-van-dong-cham",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ TRÁI TIM VÀ TÁC ĐỘNG CỦA VẬN ĐỘNG CHẬM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-kiem-soat-huyet-ap-khoa-hoc-ve-su-tha-long-va-can-bang",
+    "title": "PHẦN 2: KIỂM SOÁT HUYẾT ÁP - KHOA HỌC VỀ SỰ THẢ LỎNG VÀ CÂN BẰNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-do-dan-hoi-cua-dong-mach-va-cuoc-chien-chong-xo-vua",
+    "title": "PHẦN 3: ĐỘ ĐÀN HỒI CỦA ĐỘNG MẠCH VÀ CUỘC CHIẾN CHỐNG XƠ VỨA",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-phong-ngua-dot-quy-va-toi-uu-hoa-luu-thong-mau-nao",
+    "title": "PHẦN 4: PHÒNG NGỪA ĐỘT QUỴ VÀ TỐI ƯU HÓA LƯU THÔNG MÁU NÃO",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-moi-lien-he-giua-suc-khoe-tim-mach-va-giac-ngu-sau-chu-trinh-phuc-hoi-tu-",
+    "title": "PHẦN 5: MỐI LIÊN HỆ GIỮA SỨC KHỎE TIM MẠCH VÀ GIẤC NGỦ SÂU - CHU TRÌNH PHỤC HỒI TỰ NHIÊN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-che-do-dinh-duong-ho-tro-tim-mach-cho-nguoi-tap-thai-cuc-quyen",
+    "title": "PHẦN 6: CHẾ ĐỘ DINH DƯỠNG HỖ TRỢ TIM MẠCH CHO NGƯỜI TẬP THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-7-tong-ket-lo-trinh-ren-luyen-tim-mach-cho-tung-do-tuoi",
+    "title": "PHẦN 7: TỔNG KẾT LỘ TRÌNH RÈN LUYỆN TIM MẠCH CHO TỪNG ĐỘ TUỔI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "lo-trinh-hoc-cho-nguoi-moi-bat-dau-tu-con-so-0-den-su-thanh-thuc",
+    "title": "CHƯƠNG 8: LỘ TRÌNH HỌC CHO NGƯỜI MỚI BẮT ĐẦU - TỪ CON SỐ 0 ĐẾN SỰ THÀNH THỤC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-chuan-bi-va-thiet-lap-tu-duy-dung-dan",
+    "title": "PHẦN 1: CHUẨN BỊ VÀ THIẾT LẬP TƯ DUY ĐÚNG ĐẮN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-giai-doan-thuc-tinh-thang-thu-nhat-dieu-chinh-truc-co-the-va-hoi-tho",
+    "title": "PHẦN 2: GIAI ĐOẠN THỨC TỈNH - THÁNG THỨ NHẤT: ĐIỀU CHỈNH TRỤC CƠ THỂ VÀ HƠI THỞ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-thang-thu-hai-chuyen-trong-tam-va-bo-phap-footwork",
+    "title": "PHẦN 3: THÁNG THỨ HAI - CHUYỂN TRỌNG TÂM VÀ BỘ PHÁP (FOOTWORK)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-thang-thu-ba-lam-quen-voi-cac-thuc-co-ban-form-building",
+    "title": "PHẦN 4: THÁNG THỨ BA - LÀM QUEN VỚI CÁC THỨC CƠ BẢN (FORM BUILDING)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-thang-thu-tu-den-thang-thu-sau-hoan-thien-bai-24-thuc-va-tinh-lien-hoan",
+    "title": "PHẦN 5: THÁNG THỨ TƯ ĐẾN THÁNG THỨ SÁU - HOÀN THIỆN BÀI 24 THỨC VÀ TÍNH LIÊN HOÀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tu-thang-thu-bay-den-cuoi-nam-thu-nhat-nang-cao-tinh-chinh-va-dua-vao-doi",
+    "title": "PHẦN 6: TỪ THÁNG THỨ BẢY ĐẾN CUỐI NĂM THỨ NHẤT - NÂNG CAO, TINH CHỈNH VÀ ĐƯA VÀO ĐỜI SỐNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "tong-ket-chuong-8",
+    "title": "TỔNG KẾT CHƯƠNG 8",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-tieu-duong-va-kiem-soat-chuyen-hoa",
+    "title": "CHƯƠNG 9: ỨNG DỤNG TRONG BỆNH TIỂU ĐƯỜNG VÀ KIỂM SOÁT CHUYỂN HÓA",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-tieu-duong-va-thu-thach-cua-viec-van-dong",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ TIỂU ĐƯỜNG VÀ THỬ THÁCH CỦA VIỆC VẬN ĐỘNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-hap-thu-duong-trong-thai-cuc-quyen-suc-manh-cua-su-cham-rai",
+    "title": "PHẦN 2: CƠ CHẾ HẤP THU ĐƯỜNG TRONG THÁI CỰC QUYỀN - SỨC MẠNH CỦA SỰ CHẬM RÃI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-moi-lien-he-giua-stress-cortisol-va-duong-huyet-vong-xoay-dang-so-va-giai",
+    "title": "PHẦN 3: MỐI LIÊN HỆ GIỮA STRESS, CORTISOL VÀ ĐƯỜNG HUYẾT - VÒNG XOÁY ĐÁNG SỢ VÀ GIẢI PHÁP TỪ THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-quan-ly-can-nang-va-mo-noi-tang-thong-qua-thai-cuc-quyen",
+    "title": "PHẦN 4: QUẢN LÝ CÂN NĂNG VÀ MỠ NỘI TẠNG THÔNG QUA THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-chi-tiet-phac-do-tap-luyen-cho-benh-nhan-tieu-duong-theo-tung-cap-do",
+    "title": "PHẦN 5: CHI TIẾT PHÁC ĐỒ TẬP LUYỆN CHO BỆNH NHÂN TIỂU ĐƯỜNG THEO TỪNG CẤP ĐỘ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-theo-doi-do-luong-va-dieu-chinh-bai-tap-dua-tren-chi-so-duong-huyet",
+    "title": "PHẦN 6: THEO DÕI, ĐO LƯỜNG VÀ ĐIỀU CHỈNH BÀI TẬP DỰA TRÊN CHỈ SỐ ĐƯỜNG HUYẾT",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-7-ket-hop-thai-cuc-quyen-voi-che-do-dinh-duong-cho-nguoi-tieu-duong",
+    "title": "PHẦN 7: KẾT HỢP THÁI CỰC QUYỀN VỚI CHẾ ĐỘ DINH DƯỠNG CHO NGƯỜI TIỂU ĐƯỜNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-8-tong-ket-va-cac-cau-hoi-thuong-gap-faq",
+    "title": "PHẦN 8: TỔNG KẾT VÀ CÁC CÂU HỎI THƯỜNG GẶP (FAQ)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-parkinson-va-phuc-hoi-chuc-nang-van-dong",
+    "title": "CHƯƠNG 10: ỨNG DỤNG TRONG BỆNH PARKINSON VÀ PHỤC HỒI CHỨC NĂNG VẬN ĐỘNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-benh-parkinson-va-hien-tuong-dong-cung-freezing",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ BỆNH PARKINSON VÀ HIỆN TƯỢNG \"ĐÔNG CỨNG\" (FREEZING)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-mo-khoa-van-dong-cua-thai-cuc-quyen",
+    "title": "PHẦN 2: CƠ CHẾ \"MỞ KHÓA\" VẬN ĐỘNG CỦA THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ky-thuat-chong-dong-cung-dang-di-freezing-of-gait-fog",
+    "title": "PHẦN 3: KỸ THUẬT CHỐNG \"ĐÔNG CỨNG DÁNG ĐI\" (FREEZING OF GAIT - FOG)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-phuc-hoi-kha-nang-phoi-hop-chi-tren-va-chi-duoi",
+    "title": "PHẦN 4: PHỤC HỒI KHẢ NĂNG PHỐI HỢP CHI TRÊN VÀ CHI DƯỚI",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-tap-luyen-chi-tiet-theo-giai-doan-benh",
+    "title": "PHẦN 5: PHÁC ĐỒ TẬP LUYỆN CHI TIẾT THEO GIAI ĐOẠN BỆNH",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-cac-luu-y-an-toan-dac-biet-cho-benh-nhan-parkinson",
+    "title": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN ĐẶC BIỆT CHO BỆNH NHÂN PARKINSON",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-suy-tim-man-tinh-va-phuc-hoi-chuc-nang-tim-mach",
+    "title": "CHƯƠNG 11: ỨNG DỤNG TRONG BỆNH SUY TIM MẠN TÍNH VÀ PHỤC HỒI CHỨC NĂNG TIM MẠCH",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-nghich-ly-cua-van-dong-trong-suy-tim-tim-kiem-diem-can-bang",
+    "title": "PHẦN 1: NGHỊCH LÝ CỦA VẬN ĐỘNG TRONG SUY TIM - TÌM KIẾM ĐIỂM CÂN BẰNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-ho-tro-tim-mach-cua-thai-cuc-quyen-chiec-bom-phu-cho-trai-tim",
+    "title": "PHẦN 2: CƠ CHẾ HỖ TRỢ TIM MẠCH CỦA THÁI CỰC QUYỀN - \"CHIẾC BƠM PHỤ\" CHO TRÁI TIM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-moi-lien-he-giua-hoi-tho-ap-suat-long-nguc-va-ho-tro-tim",
+    "title": "PHẦN 3: MỐI LIÊN HỆ GIỮA HƠI THỞ, ÁP SUẤT LỒNG NGỰC VÀ HỖ TRỢ TIM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-quan-ly-phu-ne-va-tich-tu-dich-thong-qua-van-dong-thai-cuc",
+    "title": "PHẦN 4: QUẢN LÝ PHÙ NỀ VÀ TÍCH TỤ DỊCH THÔNG QUA VẬN ĐỘNG THÁI CỰC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-phuc-hoi-chuc-nang-tim-mach-chi-tiet-theo-tung-muc-do-suy-tim",
+    "title": "PHẦN 5: PHÁC ĐỒ PHỤC HỒI CHỨC NĂNG TIM MẠCH CHI TIẾT THEO TỪNG MỨC ĐỘ SUY TIM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim",
+    "title": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN SUY TIM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-phuc-hoi-chuc-nang-tim-mach-chi-tiet-theo-tung-muc-do-suy-tim-2",
+    "title": "PHẦN 5: PHÁC ĐỒ PHỤC HỒI CHỨC NĂNG TIM MẠCH CHI TIẾT THEO TỪNG MỨC ĐỘ SUY TIM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-suy-tim-2",
+    "title": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN SUY TIM",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-viem-khop-va-phuc-hoi-chuc-nang-xuong-khop",
+    "title": "CHƯƠNG 12: ỨNG DỤNG TRONG BỆNH VIÊM KHỚP VÀ PHỤC HỒI CHỨC NĂNG XƯƠNG KHỚP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-viem-khop-va-su-suy-giam-chuc-nang-van-dong",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ VIÊM KHỚP VÀ SỰ SUY GIẢM CHỨC NĂNG VẬN ĐỘNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-boi-tron-khop-cua-thai-cuc-quyen-khoa-hoc-ve-chuyen-dong-xoay",
+    "title": "PHẦN 2: CƠ CHẾ \"BÔI TRƠN\" KHỚP CỦA THÁI CỰC QUYỀN - KHOA HỌC VỀ CHUYỂN ĐỘNG XOÁY",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-giai-quyet-su-cung-khop-va-ky-thuat-hoa-giai-dau",
+    "title": "PHẦN 3: GIẢI QUYẾT SỰ CỨNG KHỚP VÀ KỸ THUẬT \"HÓA GIẢI\" ĐAU",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ung-dung-cu-the-cho-tung-loai-khop-ban-do-van-dong-tri-lieu",
+    "title": "PHẦN 4: ỨNG DỤNG CỤ THỂ CHO TỪNG LOẠI KHỚP - BẢN ĐỒ VẬN ĐỘNG TRỊ LIỆU",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-phuc-hoi-chuc-nang-cho-benh-nhan-viem-khop",
+    "title": "PHẦN 5: PHÁC ĐỒ PHỤC HỒI CHỨC NĂNG CHO BỆNH NHÂN VIÊM KHỚP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-phoi-tac-nghen-man-tinh-copd-va-phuc-hoi-chuc-nang-ho-hap",
+    "title": "CHƯƠNG 13: ỨNG DỤNG TRONG BỆNH PHỔI TẮC NGHẼN MẠN TÍNH (COPD) VÀ PHỤC HỒI CHỨC NĂNG HÔ HẤP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-copd-va-hieu-ung-bay-khi",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ COPD VÀ HIỆU ỨNG \"BẪY KHÍ\"",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-thai-cuc-quyen-chiec-chia-khoa-giai-phong-bay-khi",
+    "title": "PHẦN 2: THÁI CỰC QUYỀN - CHIẾC CHÌA KHÓA GIẢI PHÓNG \"BẪY KHÍ\"",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ky-thuat-tho-mim-moi-pursed-lip-breathing-ket-hop-voi-thai-cuc-quyen",
+    "title": "PHẦN 3: KỸ THUẬT THỞ MÍM MÔI (PURSED-LIP BREATHING) KẾT HỢP VỚI THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-dieu-chinh-tu-the-de-mo-rong-long-nguc-va-giam-ap-luc-ho-hap",
+    "title": "PHẦN 4: ĐIỀU CHỈNH TƯ THẾ ĐỂ MỞ RỘNG LỒNG NGỰC VÀ GIẢM ÁP LỰC HÔ HẤP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-tap-luyen-chi-tiet-cho-benh-nhan-copd-theo-tung-muc-do-suy-giam-c",
+    "title": "PHẦN 5: PHÁC ĐỒ TẬP LUYỆN CHI TIẾT CHO BỆNH NHÂN COPD THEO TỪNG MỨC ĐỘ SUY GIẢM CHỨC NĂNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-copd",
+    "title": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN COPD",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-ly-ve-than-va-quan-ly-chat-long-co-the",
+    "title": "CHƯƠNG 14: ỨNG DỤNG TRONG BỆNH LÝ VỀ THẬN VÀ QUẢN LÝ CHẤT LỎNG CƠ THỂ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-suy-than-va-thach-thuc-trong-van-dong",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ SUY THẬN VÀ THÁCH THỨC TRONG VẬN ĐỘNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-bom-ho-tro-cua-thai-cuc-quyen-trong-quan-ly-chat-long",
+    "title": "PHẦN 2: CƠ CHẾ \"BƠM HỖ TRỢ\" CỦA THÁI CỰC QUYỀN TRONG QUẢN LÝ CHẤT LỎNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-quan-ly-can-bang-dien-giai-va-kali-trong-van-dong",
+    "title": "PHẦN 3: QUẢN LÝ CÂN BẰNG ĐIỆN GIẢI VÀ KALI TRONG VẬN ĐỘNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ung-dung-cho-benh-nhan-chay-than-nhan-tao-va-loc-mau-dialysis",
+    "title": "PHẦN 4: ỨNG DỤNG CHO BỆNH NHÂN CHẠY THẬN NHÂN TẠO VÀ LỌC MÁU (DIALYSIS)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-tap-luyen-chi-tiet-theo-giai-doan-suy-than-ckd-stages",
+    "title": "PHẦN 5: PHÁC ĐỒ TẬP LUYỆN CHI TIẾT THEO GIAI ĐOẠN SUY THẬN (CKD STAGES)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-cac-luu-y-an-toan-tuyet-doi-cho-benh-nhan-than",
+    "title": "PHẦN 6: TỔNG KẾT VÀ CÁC LƯU Ý AN TOÀN TUYỆT ĐỐI CHO BỆNH NHÂN THẬN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-benh-ly-ve-gan-va-quan-ly-giai-doc-co-the",
+    "title": "CHƯƠNG 15: ỨNG DỤNG TRONG BỆNH LÝ VỀ GAN VÀ QUẢN LÝ GIẢI ĐỘC CƠ THỂ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-gan-va-co-che-giai-doc-cua-co-the",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ GAN VÀ CƠ CHẾ GIẢI ĐỘC CỦA CƠ THỂ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-kich-hoat-gan-cua-thai-cuc-quyen-van-dong-de-thanh-loc",
+    "title": "PHẦN 2: CƠ CHẾ \"KÍCH HOẠT\" GAN CỦA THÁI CỰC QUYỀN - VẬN ĐỘNG ĐỂ THANH LỌC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ung-dung-cu-the-cho-benh-gan-nhiem-mo-nafldnash",
+    "title": "PHẦN 3: ỨNG DỤNG CỤ THỂ CHO BỆNH GAN NHIỄM MỠ (NAFLD/NASH)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-ho-tro-phuc-hoi-cho-benh-nhan-xo-gan-va-co-truong-ascites",
+    "title": "PHẦN 4: HỖ TRỢ PHỤC HỒI CHO BỆNH NHÂN XƠ GAN VÀ CỔ TRƯỚNG (ASCITES)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-tap-luyen-va-che-do-giai-doc-tong-hop",
+    "title": "PHẦN 5: PHÁC ĐỒ TẬP LUYỆN VÀ CHẾ ĐỘ GIẢI ĐỘC TỔNG HỢP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-luu-y-an-toan-cho-benh-nhan-gan",
+    "title": "PHẦN 6: TỔNG KẾT VÀ LƯU Ý AN TOÀN CHO BỆNH NHÂN GAN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-cac-benh-ly-ve-he-tieu-hoa-va-quan-ly-suc-khoe-duong-ruot",
+    "title": "CHƯƠNG 16: ỨNG DỤNG TRONG CÁC BỆNH LÝ VỀ HỆ TIÊU HÓA VÀ QUẢN LÝ SỨC KHỎE ĐƯỜNG RUỘT",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-truc-nao-ruot-gut-brain-axis-va-co-che-cua-su-tieu-hoa",
+    "title": "PHẦN 1: TRỤC NÃO - RUỘT (GUT-BRAIN AXIS) VÀ CƠ CHẾ CỦA SỰ TIÊU HÓA",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-massage-noi-tang-thong-qua-van-dong-xoay-va-hoi-tho",
+    "title": "PHẦN 2: CƠ CHẾ \"MASSAGE NỘI TẠNG\" THÔNG QUA VẬN ĐỘNG XOÁY VÀ HƠI THỞ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ung-dung-cu-the-cho-hoi-chung-ruot-kich-thich-irritable-bowel-syndrome-ib",
+    "title": "PHẦN 3: ỨNG DỤNG CỤ THỂ CHO HỘI CHỨNG RUỘT KÍCH THÍCH (IRRITABLE BOWEL SYNDROME - IBS)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-quan-ly-trao-nguoc-da-day-thuc-quan-gerd-thong-qua-tu-the-va-hoi-tho",
+    "title": "PHẦN 4: QUẢN LÝ TRÀO NGƯỢC DẠ DÀY THỰC QUẢN (GERD) THÔNG QUA TƯ THẾ VÀ HƠI THỞ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-giai-phap-cho-tao-bon-man-tinh-va-moi-lien-he-voi-giac-ngu",
+    "title": "PHẦN 5: GIẢI PHÁP CHO TÁO BÓN MẠN TÍNH VÀ MỐI LIÊN HỆ VỚI GIẤC NGỦ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-che-do-dinh-duong-ket-hop-tap-luyen",
+    "title": "PHẦN 6: TỔNG KẾT VÀ CHẾ ĐỘ DINH DƯỠNG KẾT HỢP TẬP LUYỆN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-quan-ly-stress-man-tinh-va-hoi-chung-met-moi-man-tinh-cfs",
+    "title": "CHƯƠNG 17: ỨNG DỤNG TRONG QUẢN LÝ STRESS MẠN TÍNH VÀ HỘI CHỨNG MỆT MỎI MẠN TÍNH (CFS)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-ly-hoc-ve-stress-man-tinh-va-con-ac-mong-cfs",
+    "title": "PHẦN 1: SINH LÝ HỌC VỀ STRESS MẠN TÍNH VÀ \"CƠN ÁC MỘNG\" CFS",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-co-che-tai-nap-nang-luong-cua-thai-cuc-quyen",
+    "title": "PHẦN 2: CƠ CHẾ \"TÁI NẠP NĂNG LƯỢNG\" CỦA THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-ky-thuat-quan-ly-nang-luong-pacing-ket-hop-thai-cuc-quyen",
+    "title": "PHẦN 3: KỸ THUẬT QUẢN LÝ NĂNG LƯỢNG \"PACING\" KẾT HỢP THÁI CỰC QUYỀN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-giai-phap-cho-suong-mu-nao-brain-fog-va-suy-giam-nhan-thuc",
+    "title": "PHẦN 4: GIẢI PHÁP CHO \"SƯƠNG MÙ NÃO\" (BRAIN FOG) VÀ SUY GIẢM NHẬN THỨC",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-tap-luyen-chi-tiet-cho-nguoi-bi-met-moi-man-tinh-cfs",
+    "title": "PHẦN 5: PHÁC ĐỒ TẬP LUYỆN CHI TIẾT CHO NGƯỜI BỊ MỆT MỎI MẠN TÍNH (CFS)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-lo-trinh-thoat-khoi-met-moi-man-tinh",
+    "title": "PHẦN 6: TỔNG KẾT VÀ LỘ TRÌNH THOÁT KHỎI MỆT MỎI MẠN TÍNH",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-dieu-tri-mat-ngu-tram-cam-va-roi-loan-lo-au",
+    "title": "CHƯƠNG 18: ỨNG DỤNG TRONG ĐIỀU TRỊ MẤT NGỦ, TRẦM CẢM VÀ RỐI LOẠN LO ÂU",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-hoc-ve-giac-ngu-va-co-che-cua-mat-ngu-man-tinh",
+    "title": "PHẦN 1: SINH HỌC VỀ GIẤC NGỦ VÀ CƠ CHẾ CỦA MẤT NGỦ MÃN TÍNH",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-thai-cuc-quyen-cong-cu-tai-lap-trinh-giac-ngu",
+    "title": "PHẦN 2: THÁI CỰC QUYỀN - CÔNG CỤ TÁI LẬP TRÌNH GIẤC NGỦ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-sinh-hoa-cua-tram-cam-va-co-che-van-dong-chua-lanh",
+    "title": "PHẦN 3: SINH HÓA CỦA TRẦM CẢM VÀ CƠ CHẾ \"VẬN ĐỘNG CHỮA LÀNH\"",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-giai-quyet-roi-loan-lo-au-thong-qua-thang-bang-va-tinh-lang",
+    "title": "PHẦN 4: GIẢI QUYẾT RỐI LOẠN LO ÂU THÔNG QUA THĂNG BẰNG VÀ TĨNH LẶNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phac-do-ket-hop-cho-nhung-truong-hop-nang-hanh-trinh-tu-bong-toi-ra-anh-s",
+    "title": "PHẦN 5: PHÁC ĐỒ KẾT HỢP CHO NHỮNG TRƯỜNG HỢP NẶNG - HÀNH TRÌNH TỪ BÓNG TỐI RA ÁNH SÁNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-tong-ket-va-xay-dung-loi-song-tinh-thuc-mindful-living",
+    "title": "PHẦN 6: TỔNG KẾT VÀ XÂY DỰNG LỐI SỐNG TỈNH THỨC (MINDFUL LIVING)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-quan-ly-can-nang-va-cai-thien-voc-dang",
+    "title": "CHƯƠNG 19: ỨNG DỤNG TRONG QUẢN LÝ CÂN NẶNG VÀ CẢI THIỆN VÓC DÁNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-hoc-ve-giam-can-tu-dot-calo-den-toi-uu-hoa-chuyen-hoa",
+    "title": "PHẦN 1: SINH HỌC VỀ GIẢM CÂN - TỪ \"ĐỐT CALO\" ĐẾN \"TỐI ƯU HÓA CHUYỂN HÓA\"",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-liss-va-vung-dot-mo-khoa-hoc-ve-cuong-do-thap",
+    "title": "PHẦN 2: LISS VÀ \"VÙNG ĐỐT MỠ\" - KHOA HỌC VỀ CƯỜNG ĐỘ THẤP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-cortisol-va-mo-bung-co-che-giai-phong-mo-noi-tang-tu-goc-re",
+    "title": "PHẦN 3: CORTISOL VÀ MỠ BỤNG - CƠ CHẾ GIẢI PHÓNG MỠ NỘI TẠNG TỪ GỐC RỄ",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-dinh-hinh-voc-dang-thong-qua-su-phoi-hop-co-bap-va-truc-cot-song",
+    "title": "PHẦN 4: ĐỊNH HÌNH VÓC DÁNG THÔNG QUA SỰ PHỐI HỢP CƠ BẮP VÀ TRỤC CỘT SỐNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phan-tich-chi-tiet-ve-su-san-chac-co-bap-lean-muscle",
+    "title": "PHẦN 5: PHÂN TÍCH CHI TIẾT VỀ SỰ SĂN CHẮC CƠ BẮP - LEAN MUSCLE",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-phac-do-thuc-hanh-ket-hop-dinh-duong-de-giam-can-ben-vung",
+    "title": "PHẦN 6: PHÁC ĐỒ THỰC HÀNH KẾT HỢP DINH DƯỠNG ĐỂ GIẢM CÂN BỀN VỮNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "ung-dung-trong-quan-ly-cang-thang-cho-nguoi-lam-viec-cuong-do-cao-va-doanh-nhan",
+    "title": "CHƯƠNG 20: ỨNG DỤNG TRONG QUẢN LÝ CĂNG THẲNG CHO NGƯỜI LÀM VIỆC CƯỜNG ĐỘ CAO VÀ DOANH NHÂN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-1-sinh-hoc-cua-ap-luc-dieu-hanh-va-chi-phi-cua-su-cang-thang",
+    "title": "PHẦN 1: SINH HỌC CỦA ÁP LỰC ĐIỀU HÀNH VÀ CHI PHÍ CỦA SỰ CĂNG THẲNG",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-2-thai-cuc-quyen-nhu-mot-cong-tac-reset-he-than-kinh",
+    "title": "PHẦN 2: THÁI CỰC QUYỀN NHƯ MỘT \"CÔNG TẮC\" RESET HỆ THẦN KINH",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-3-quan-tri-su-met-moi-vi-ra-quyet-dinh-decision-fatigue-2",
+    "title": "PHẦN 3: QUẢN TRỊ \"SỰ MỆT MỎI VÌ RA QUYẾT ĐỊNH\" (DECISION FATIGUE)",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-4-xay-dung-trang-thai-flow-trong-quan-tri-doanh-nghiep-2",
+    "title": "PHẦN 4: XÂY DỰNG TRẠNG THÁI \"FLOW\" TRONG QUẢN TRỊ DOANH NGHIỆP",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-5-phong-ngua-burnout-va-phuc-hoi-nang-luong-cho-lanh-dao-2",
+    "title": "PHẦN 5: PHÒNG NGỪA BURNOUT VÀ PHỤC HỒI NĂNG LƯỢNG CHO LÃNH ĐẠO",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  },
+  {
+    "cluster": "health",
+    "slug": "phan-6-thiet-lap-lich-trinh-van-dong-cho-doanh-nhan-ban-ron-2",
+    "title": "PHẦN 6: THIẾT LẬP LỊCH TRÌNH VẬN ĐỘNG CHO DOANH NHÂN BẬN RỘN",
+    "source": "Cẩm nang giữ gìn sức khỏe và kéo dài tuổi thọ"
+  }
+]
