@@ -154,37 +154,24 @@ nav:
       - 🏁 END OF MANUAL / HẾT CẨM NANG: essentials/end-of-manual-het-cam-nang.md
   - 🏥 Sức khỏe & Dưỡng sinh:
       - Overview: health/index.md
-      - Bảy sự suy giảm của người lớn tuổi: health/bay-suy-giam.md
-      - Khí công chữa lành — tổng quan: health/khi-cong-chua-lanh.md
-      - Trường thọ học — khoa học tuổi thọ: health/truong-tho-hoc.md
-      - Nghiên cứu khoa học về Thái Cực: health/nghien-cuu-khoa-hoc-thai-cuc.md
-      - Giấc ngủ và Thái Cực: health/giac-ngu-va-thai-cuc.md
-      - Hệ miễn dịch và Thái Cực: health/mien-dich-va-thai-cuc.md
-      - Stress, lo âu và Thái Cực: health/stress-va-thai-cuc.md
-      - Tim mạch và Thái Cực: health/tim-mach-va-thai-cuc.md
-      - Xương khớp và Thái Cực: health/xuong-khop-va-thai-cuc.md
-      - Hô hấp và Thái Cực: health/ho-hap-va-thai-cuc.md
-      - Tiểu đường và Thái Cực: health/tieu-duong-va-thai-cuc.md
-      - Thăng bằng — cốt lõi dưỡng sinh: health/thang-bang.md
-      - Thái Cực cho người Parkinson: health/parkinson-va-thai-cuc.md
-      - Thiền trong Thái Cực: health/thien-trong-thai-cuc.md
-
-  - 🏥 Sức khỏe & Dưỡng sinh:
-      - Overview: health/index.md
-      - Bảy sự suy giảm của người lớn tuổi: health/bay-suy-giam.md
-      - Khí công chữa lành — tổng quan: health/khi-cong-chua-lanh.md
-      - Trường thọ học — khoa học tuổi thọ: health/truong-tho-hoc.md
-      - Nghiên cứu khoa học về Thái Cực: health/nghien-cuu-khoa-hoc-thai-cuc.md
-      - Giấc ngủ và Thái Cực: health/giac-ngu-va-thai-cuc.md
-      - Hệ miễn dịch và Thái Cực: health/mien-dich-va-thai-cuc.md
-      - Stress, lo âu và Thái Cực: health/stress-va-thai-cuc.md
-      - Tim mạch và Thái Cực: health/tim-mach-va-thai-cuc.md
-      - Xương khớp và Thái Cực: health/xuong-khop-va-thai-cuc.md
-      - Hô hấp và Thái Cực: health/ho-hap-va-thai-cuc.md
-      - Tiểu đường và Thái Cực: health/tieu-duong-va-thai-cuc.md
-      - Thăng bằng — cốt lõi dưỡng sinh: health/thang-bang.md
-      - Thái Cực cho người Parkinson: health/parkinson-va-thai-cuc.md
-      - Thiền trong Thái Cực: health/thien-trong-thai-cuc.md
+      - 🌱 Nền tảng & Khoa học:
+          - Khí công chữa lành — tổng quan: health/khi-cong-chua-lanh.md
+          - Trường thọ học — khoa học tuổi thọ: health/truong-tho-hoc.md
+          - Nghiên cứu khoa học về Thái Cực: health/nghien-cuu-khoa-hoc-thai-cuc.md
+          - Thiền trong Thái Cực: health/thien-trong-thai-cuc.md
+      - 📉 Suy giảm & Lão hóa:
+          - Bảy sự suy giảm của người lớn tuổi: health/bay-suy-giam.md
+          - Thăng bằng — cốt lõi dưỡng sinh: health/thang-bang.md
+          - Giấc ngủ và Thái Cực: health/giac-ngu-va-thai-cuc.md
+      - 💊 Bệnh lý & Phòng ngừa:
+          - Tim mạch và Thái Cực: health/tim-mach-va-thai-cuc.md
+          - Hô hấp và Thái Cực: health/ho-hap-va-thai-cuc.md
+          - Xương khớp và Thái Cực: health/xuong-khop-va-thai-cuc.md
+          - Tiểu đường và Thái Cực: health/tieu-duong-va-thai-cuc.md
+          - Thái Cực cho người Parkinson: health/parkinson-va-thai-cuc.md
+          - Hệ miễn dịch và Thái Cực: health/mien-dich-va-thai-cuc.md
+      - 🧘 Tâm lý & Stress:
+          - Stress, lo âu và Thái Cực: health/stress-va-thai-cuc.md
 
   - 💪 Kỹ thuật & Kình lực:
       - Overview: technique/index.md
