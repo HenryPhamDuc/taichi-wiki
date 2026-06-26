@@ -9,7 +9,7 @@
 
 > 🧘 **[Kho Thái Cực của Henry / Henry's Taichi Practice Vault](https://henryphamduc.github.io/taichi/)** — Thư viện tài nguyên song ngữ (trang đơn, để duyệt)
 
-Tổng hợp từ **Kho kiến thức Taichi**, **Taichi Wiki Project**, và thư viện **Taichi-QiGong-Taoism** của Henry Phạm. Wiki song ngữ này là điểm khởi đầu để học Thái Cực Quyền từ lịch sử, yếu lĩnh, kỹ thuật cho đến ứng dụng sức khỏe và tennis.
+Tổng hợp từ **Kho kiến thức Taichi**, **Taichi Wiki Project**, và thư viện **Taichi-QiGong-Taoism** của Henry Phạm. Wiki song ngữ này là điểm khởi đầu để học Thái Cực Quyền từ lịch sử, yếu lĩnh, kỹ thuật, hơi thở, đến ứng dụng sức khỏe và thực hành hằng ngày.
 
 ## 🕸️ Knowledge Graph
 
@@ -82,11 +82,4 @@ Khám phá wiki dưới dạng mạng tương tác — mỗi nút là một bài
 
     [:octicons-arrow-right-24: Mở phần này](health/index.md)
 
--   :material-tennis:{ .lg .middle } **Ứng dụng Tennis**
-
-    ---
-
-    Phòng thí nghiệm ứng dụng Thái Cực Quyền trong tennis
-
-
-</div>
+    </div>
