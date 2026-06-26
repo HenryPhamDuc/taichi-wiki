@@ -88,6 +88,5 @@ Khám phá wiki dưới dạng mạng tương tác — mỗi nút là một bài
 
     Phòng thí nghiệm ứng dụng Thái Cực Quyền trong tennis
 
-    [:octicons-arrow-right-24: Mở phần này](tennis/index.md)
 
 </div>

@@ -7,7 +7,6 @@ Phần này có **72 bài viết** về Luyện tập.
 - [3 Quy Tắc Vàng Thái Cực 3.0](3-quy-tac-vang-thai-cuc-30.md)
 - [5 phút Trụ Thế thay đổi tất cả](5-phut-tru-the-thay-doi-tat-ca.md)
 - [7 lỗi "chết người" của học viên 3.0](7-loi-chet-nguoi-cua-hoc-vien-30.md)
-- [9 điểm thả lỏng](9-diem-tha-long.md)
 - [Âm Dương và điệu múa của các cặp đối lập](am-duong-va-dieu-mua-cua-cac-cap-doi-lap.md)
 - [Án — Ấn xuống và kết thúc](an-an-xuong-va-ket-thuc.md)
 - [Bài 30 phút mỗi ngày](bai-30-phut-moi-ngay.md)
